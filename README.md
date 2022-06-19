@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Hey, I'm Jeferson Soares<br><img src="https://img.shields.io/badge/Back--end_developer-black?&style=for-the-badge"></h1>
+<h1 align="center">Hey, I'm Jeferson Soares<br><img src="https://img.shields.io/badge/-black?&style=for-the-badge&logo=spring&logoColor=white" ><img src="https://img.shields.io/badge/Back--end_developer-black?&style=for-the-badge"><img src="https://img.shields.io/badge/-black?&style=for-the-badge&logo=java&logoColor=white" ></h1>
 <h3 align="center">About me</h3>
 
 ---------------------------------------
